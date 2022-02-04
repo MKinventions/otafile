@@ -1,0 +1,2 @@
+# otafile
+update fimware
